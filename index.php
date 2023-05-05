@@ -1,4 +1,4 @@
-//firstApp/index.php
+// firstApp/index.php
 
 <?php
 
